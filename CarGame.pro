@@ -18,3 +18,5 @@ SOURCES += main.cpp
 
 LIBS += -lallegro -lallegro_color -lallegro_primitives \
         -lallegro_ttf -lallegro_font -lallegro_image -lallegro_audio -lallegro_acodec -lstdc++
+
+HEADERS +=
